@@ -3,6 +3,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
+![Main graph](https://github.com/Pedronagy/Unicamp_salaries/blob/main/Figures/salaries.jpeg)
+
 ## Table of contents
 - [Introduction](#introduction)
 - [Workflow](#workflow)
@@ -31,4 +33,4 @@ In the file ([Analisys.ipynb](https://github.com/Pedronagy/Unicamp_salaries/blob
 4. The biggest mean salaries are usually from colleges.  
 ### Main conclusion
 There is no suspicious distribution or expenses that i could find and the differences in salaries and departments made sense. Which is a good thing.  
-After all, no one wants a corrupt university, after all :)
+No one wants a corrupt university, after all :)
